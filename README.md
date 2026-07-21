@@ -237,4 +237,3 @@ Each layer has a single responsibility, making the project easy to maintain and 
 
 Nesa Karimi
 
-AI Engineer Portfolio Project
