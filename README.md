@@ -106,7 +106,7 @@ src/
 Clone the repository
 
 ```bash
-git clone https://github.com/NesaKarimi24/semantic-job-search-engine.git
+git clone https://github.com/Nesa99k/semantic-job-search-engine.git
 
 cd semantic-job-search-engine
 ```
