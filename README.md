@@ -90,6 +90,10 @@ src/
 
 ---
 
+## System Architecture & Workflow
+
+## ![System Architecture & Workflow](src/docs/flowchart.svg)
+
 ## Technologies
 
 - Python
